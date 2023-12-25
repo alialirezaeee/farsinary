@@ -56,10 +56,6 @@ Farsinary is released under the [MIT License](LICENSE). See the [LICENSE](LICENS
 
 For inquiries or feedback, please contact us at alirezaeeeali@gmail.com.
 
-<p align="center">
-<img src="img/logo.png" alt="Farsinary Icon" width="100">
-</p>
-
 Happy exploring with Farsinary!
 
 
