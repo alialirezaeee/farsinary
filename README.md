@@ -1,7 +1,7 @@
 # Farsinary - Open Source Farsi Dictionary
 
 <p align="center">
-  <img src="img/logo.png" alt="Farsinary Logo">
+  <img src="img/logo.png" alt="Farsinary Logo" width="200">
 </p>
 
 ## Overview
@@ -20,9 +20,8 @@ Farsinary is an open-source Farsi dictionary project aimed at providing a struct
 
 1. **Clone the Repository:**
 
-``bash
+
 git clone https://github.com/your-username/Farsinary.git
-```
 
 2. **Database Setup:**
 - Run the database setup script to create the necessary tables and populate initial data.
