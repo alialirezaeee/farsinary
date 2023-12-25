@@ -6,7 +6,7 @@
 
 ## Overview
 
-Farsinary is an open-source Farsi dictionary project aimed at providing a structured and comprehensive database for the Persian language. In this initial phase, our focus is on setting up the database structure, making it aesthetically pleasing, and laying the foundation for future features.
+Farsinary is an open-source Farsi dictionary project dedicated to building a structured and comprehensive database for the Persian language. In this initial phase, our primary goal is to establish the database structure, ensure compatibility with macOS, create an aesthetically pleasing interface, and lay the foundation for future features.
 
 ## Features
 
