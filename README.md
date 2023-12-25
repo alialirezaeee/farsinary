@@ -8,13 +8,23 @@
 
 Farsinary is an open-source Farsi dictionary project dedicated to building a structured and comprehensive database for the Persian language. In this initial phase, our primary goal is to establish the database structure, ensure compatibility with macOS, create an aesthetically pleasing interface, and lay the foundation for future features.
 
-## Features
+## Download
 
-- **Structured Database:** We have carefully designed and implemented a well-organized database schema to store dictionary data efficiently.
+<div style="display: flex; align-items: center;">
+  <img src="img/En-Fa.png" alt="En-Fa" width="50" style="vertical-align: middle;">
+  <a href="https://github.com/alialirezaeee/farsinary/blob/main/English-Persian%20Dictionary.tar.gz" style="vertical-align: middle; margin-left: 10px;">
+    English to Persian
+  </a>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+  <img src="img/Fa-En.png" alt="En-Fa" width="50" style="vertical-align: middle;">
+  <a href="https://github.com/alialirezaeee/farsinary/blob/main/Persian-English%20Dictionary.tar.gz" style="vertical-align: middle; margin-left: 10px;">
+    Persian to English
+  </a>
+</div>
 
-- **Beautiful Interface:** The user interface is designed with simplicity and aesthetics in mind, ensuring a pleasant experience for users interacting with the dictionary.
 
-- **Logo:** Farsinary comes with a distinctive logo that represents our commitment to open knowledge and linguistic exploration.
 
 ## Getting Started
 
