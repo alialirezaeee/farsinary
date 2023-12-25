@@ -20,8 +20,9 @@ Farsinary is an open-source Farsi dictionary project aimed at providing a struct
 
 1. **Clone the Repository:**
 
-
+```bash
 git clone https://github.com/your-username/Farsinary.git
+```
 
 2. **Database Setup:**
 - Run the database setup script to create the necessary tables and populate initial data.
@@ -43,10 +44,10 @@ Farsinary is released under the [MIT License](LICENSE). See the [LICENSE](LICENS
 
 ## Contact
 
-For inquiries or feedback, please contact us at farsinary@example.com.
+For inquiries or feedback, please contact us at alirezaeeeali@gmail.com.
 
 <p align="center">
-<img src="https://example.com/farsinary-icon.png" alt="Farsinary Icon">
+<img src="img/logo.png" alt="Farsinary Icon" width="100">
 </p>
 
 Happy exploring with Farsinary!
