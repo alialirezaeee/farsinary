@@ -27,18 +27,14 @@ Farsinary is an open-source Farsi dictionary project dedicated to building a str
 
 
 ## Getting Started
+1. Download the files
+2. Unzip them
+3. Copy and Paste the files to `/Users/{YOUR_USERNAME}/Library/Dictionaries`
+4. Open Dictionary app
+5. Go to Settings
+6. Check `English-Persian Dictionary` and `Persian-English Dictionary`
 
-1. **Clone the Repository:**
-
-```bash
-git clone https://github.com/your-username/Farsinary.git
-```
-
-2. **Database Setup:**
-- Run the database setup script to create the necessary tables and populate initial data.
-
-3. **Run the Application:**
-- Launch the application and start exploring the structured dictionary data.
+And It's done.
 
 ## Contributing
 
@@ -48,15 +44,16 @@ We welcome contributions from the community to enhance and expand Farsinary. If 
 
 Farsinary is released under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgments
+<!-- ## Acknowledgments
 
-- Special thanks to [contributors](CONTRIBUTORS.md) who have dedicated their time and expertise to make Farsinary possible.
+- Special thanks to [contributors](CONTRIBUTORS.md) who have dedicated their time and expertise to make Farsinary possible. -->
 
 ## Contact
 
 For inquiries or feedback, please contact us at alirezaeeeali@gmail.com.
 
 Happy exploring with Farsinary!
+
 
 
 
