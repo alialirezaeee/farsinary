@@ -64,7 +64,4 @@ Happy exploring with Farsinary!
 - https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/schema/schema.html#//apple_ref/doc/uid/TP40006152-CH4-SW1
 - https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/prepare/prepare.html#//apple_ref/doc/uid/TP40006152-CH3-SW7
 - https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/access/access.html#//apple_ref/doc/uid/TP40006152-CH5-SW1
-
-
-
-
+- https://apple.stackexchange.com/questions/41894/spanish-to-english-and-english-to-spanish-dictionary-for-dictionary-app/119166#119166
