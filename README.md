@@ -56,4 +56,16 @@ Happy exploring with Farsinary!
 
 
 
+## Uasefull links
+- https://apple.stackexchange.com/questions/80099/how-can-i-create-a-dictionary-for-mac-os-x
+- https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006152-CH1-DontLinkElementID_23
+- https://blog.nagpals.com/blog/2011/02/20/mac-dictionaries/
+- https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006152-CH1-DontLinkElementID_23
+- https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/schema/schema.html#//apple_ref/doc/uid/TP40006152-CH4-SW1
+- https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/prepare/prepare.html#//apple_ref/doc/uid/TP40006152-CH3-SW7
+- https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/DictionaryServicesProgGuide/access/access.html#//apple_ref/doc/uid/TP40006152-CH5-SW1
+- 
+
+
+
 
